@@ -13,6 +13,7 @@ conda activate env2
 
 # Check Django Version
 django.__version__
+```
 
 Tha UI Guy
 -----------
